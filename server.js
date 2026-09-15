@@ -1,2 +1,1 @@
-let hi = 90;
-console.log(hi)
+let ji="heelo  name"
